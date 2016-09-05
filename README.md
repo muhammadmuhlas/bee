@@ -375,7 +375,7 @@ Rebasing will update your branch with the most recent code and make your changes
 [new-issue]: #submitting-an-issue
 [new-pr]: #submitting-a-pull-request
 
-## Licence
+## License
 
 ```text
 Copyright 2016 bee authors
